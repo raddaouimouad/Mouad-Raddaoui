@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Mouad Raddaoui
+# 👋 Hi, I'm Modo
 
-💻 **Full-Stack Web Developer**  
-🚀 Passionate about building modern web applications  
-🛠️ Focused on clean code & best practices
+💻 Full-Stack Web Developer  
+🚀 Building scalable web applications  
+⚡ Passionate about clean architecture & DevOps  
 
 ---
 
@@ -18,6 +18,8 @@
 ---
 
 ### 🧠 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -25,7 +27,14 @@
 
 ### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -36,7 +45,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raddaouimouad&show_icons=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raddaouimouad&show_icons=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raddaouimouad&layout=compact)
 
 ---
 
