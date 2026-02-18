@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Modo
+# 👋 Hi, I'm Mouad
 
-💻 Full-Stack Web Developer  
-🚀 Building scalable web applications  
-⚡ Passionate about clean architecture & DevOps  
+## 🚀 About Me
+- 💻 Full-Stack Developer (MERN & Laravel)
+- 🚀 Building scalable web applications
+- ☁️ Cloud & DevOps Enthusiast
+- 🐧 Linux User
+- 🔥 Always learning new technologies
 
 ---
 
@@ -41,12 +44,6 @@
 ### 🛠 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raddaouimouad&show_icons=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raddaouimouad&layout=compact)
 
 ---
 
